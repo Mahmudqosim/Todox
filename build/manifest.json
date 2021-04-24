@@ -1,0 +1,15 @@
+{
+    "short_name": "Todox",
+    "name": "Todox",
+    "icons": [
+        {
+            "src": "logo.png",
+            "type": "image/png",
+            "sizes": "1024x1024"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#f5f5f5",
+    "background_color": "#f5f5f5"
+}
